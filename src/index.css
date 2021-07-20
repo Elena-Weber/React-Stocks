@@ -17,3 +17,19 @@ h2{
   margin: 0 auto;
   text-align: center;
 }
+
+.mainContainer {
+  border: brown solid 3px;
+}
+
+.stockContainer {
+  border: steelblue 3px solid;
+}
+
+.portfolioContainer {
+  border: springgreen 3px solid;
+}
+
+.search {
+  border: yellow 3px solid;
+}
